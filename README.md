@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Siyanda Sokhela</h1>
+<h1 align="left">Siyanda Sokhela</h1>
 <h3 align="left">I am a Durban-based front-end developer, designer, and creative. I work mainly in the digital realm, creating and coding for the web.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
